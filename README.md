@@ -4,15 +4,15 @@ The tool is written in the Go programming language, designed to discover Adobe E
 
 The tool is able to identify AEM websites by analyzing the patterns and URLs that are unique to AEM websites. The tool is designed to be lightweight, fast, and easy to use, with a simple command-line interface that allows users to quickly scan a large number of URLs for AEM websites.
 
-#Installation
+# Installation
 
 
-#How to Run
+# How to Run
 ```
 cat live-domains | aem_detector
 ```
 
-#Thanks
+# Thanks
 
 Special thanks to “Mikhail Egorov” (https://twitter.com/0ang3el) for his wonderful research on AEM CMS. This tool is designed using his research (https://github.com/0ang3el/aem-hacker) on AEM CMS. It's always great to see researchers like him contributing to the open-source community and sharing their work with others. 
 
