@@ -19,4 +19,4 @@ cat live-domains | aem_detector
 
 Special thanks to “Mikhail Egorov” (https://twitter.com/0ang3el) for his wonderful research on AEM CMS. This tool is designed using his research (https://github.com/0ang3el/aem-hacker) on AEM CMS. It's always great to see researchers like him contributing to the open-source community and sharing their work with others. 
 
-If you have found the tool to be useful, you can show your appreciation by leaving a positive comment or review, sharing the tool with others, or even contributing to the researcher's project if it is open-source. These actions can help motivate researchers to continue their work and inspire others to contribute to the community as well.
+If you have found the tool to be useful, you can show your appreciation by leaving a positive comment or review, sharing the tool with others, or even contributing. These actions can help motivate researchers to continue their work and inspire others to contribute to the community as well.
