@@ -15,6 +15,8 @@ go install github.com/akshaysharma016/aem-detector@latest
 cat live-domains | aem_detector
 ```
 
+https://user-images.githubusercontent.com/16467842/230017361-c295971e-5c23-4838-a609-b42c5994d282.mov
+
 # Thanks
 
 Special thanks to “Mikhail Egorov” (https://twitter.com/0ang3el) for his wonderful research on AEM CMS. This tool is designed using his research (https://github.com/0ang3el/aem-hacker) on AEM CMS. It's always great to see researchers like him contributing to the open-source community and sharing their work with others. 
