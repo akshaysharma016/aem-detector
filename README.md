@@ -5,7 +5,10 @@ The tool is written in the Go programming language, designed to discover Adobe E
 The tool is able to identify AEM websites by analyzing the patterns and URLs that are unique to AEM websites. The tool is designed to be lightweight, fast, and easy to use, with a simple command-line interface that allows users to quickly scan a large number of URLs for AEM websites.
 
 # Installation
+```
+go install github.com/akshaysharma016/aem-detector@latest
 
+```
 
 # How to Run
 ```
